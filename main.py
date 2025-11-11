@@ -1,1 +1,1 @@
-print("Cze˜† Cloud, Git dziaˆa! ??") 
+print("Hiszpanska inkwizycja" to najlepszy skecz grupy Monty Pythona)
